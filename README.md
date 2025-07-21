@@ -17,10 +17,8 @@
 ## Documentation
 https://documenter.getpostman.com/view/37996569/2sB2xFgoEq
 
-## Test Cases
-----------Not finish yet---Work in process----------
 ## Bug Report
-----------Not finish yet---Work in process----------
+https://drive.google.com/drive/folders/1Sru3fLwA8ZT1zQW73lIP6VcjfXHO9Mzz?usp=sharing
 ## Newman Report
 <img width="891" height="884" alt="Newman" src="https://github.com/user-attachments/assets/b70fc4fe-960e-4937-83e5-d01f7781915a" />
 
